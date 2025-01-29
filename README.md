@@ -2,7 +2,7 @@
 This repository contains scripts for multiple (pre)processing approaches of metabarcoding datasets. 
 A series of denoising tools are employed, each evaluated across ten stringency levels.
 
-## Installation of working environment and Utilities for quality control and preprocessing of metabarcoding data
+## Installation
 To avoid dependency issues and for easier management of the tools we used miniconda with a new environment.
 The conda environment was created as follows:
 
@@ -45,7 +45,7 @@ metaMATE was installed in a dedicated conda environment, as recommended in the g
 > conda create -n metamate_env metamate -c bioconda -c conda-forge 
 ```
 
-
+## Execution of the pipeline
 
 
 
