@@ -12,7 +12,7 @@ The conda environment was created as follows:
 > conda activate metabarcode_data_analysis_env
 ```
 
-Now, within the newly created and activated metabarcode_data_analysis_env, the installation of these tools can be done using the **installation_utils.sh** bash script. 
+Within the newly created and activated metabarcode_data_analysis_env, the installation of these tools can be done using the **installation_utils.sh** bash script. 
 - fastqc 
 - fastx_trimmer
 - fastq-pair
