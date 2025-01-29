@@ -35,8 +35,10 @@ The binary file for the usearch preprocessing toolkit, as well as the denoising 
 Please download it from the usearch webpage.
 
 
-
-
+To execute DADA2 (R Script dada2_pip.R) please install the following R packages:
+```
+Rscript -e "install.packages(c('dada2','dplyr','stringr','seqinr'), repos = 'https://cloud.r-project.org')"
+```
 
 
 
