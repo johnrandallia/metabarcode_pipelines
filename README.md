@@ -1,8 +1,6 @@
 # metabarcode_pipelines
-
-
-The following tools and worksteps describe multiple ways to preprocess metabarcoding datasets.
-Here, different (primary) denoising tools are used and each tool is executed with the default denoising stringency, but also 9 different denoising stringencies.
+This repository contains scripts for multiple (pre)processing approaches of metabarcoding datasets. 
+A series of denoising tools are employed, each evaluated across ten stringency levels.
 
 ## Installation of working environment and Utilities for quality control and preprocessing of metabarcoding data
 To avoid dependency issues and for easier management of the tools we used miniconda with a new environment.
