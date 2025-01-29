@@ -25,4 +25,4 @@ conda install -c adriantich dnoise
 conda install -c conda-forge r-base=4.0.0
 
 # R packages to execute DADA2
-Rscript -e "install.packages(c('dada2','dplyr','stringr','seqinr'), repos = 'https://cloud.r-project.org')"
+Rscript -e "install.packages(c('dada2','dplyr','stringr','seqinr', 'compiler'), repos = 'https://cloud.r-project.org')"
