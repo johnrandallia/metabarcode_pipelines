@@ -48,7 +48,7 @@ metaMATE was installed in a dedicated conda environment, as recommended in the g
 ## Execution of the pipeline
 The provided scripts in this github repo are semi-automatic. 
 All of them need adjustment of the working directory/ paths.
-Ones that is done, execute:
+Once that is done, execute:
 ```
 > ./run_preprocessing_EPA45.sh
 > ./run_LULU.sh
