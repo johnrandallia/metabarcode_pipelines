@@ -15,6 +15,9 @@ conda install biopython
 sudo apt install cutadapt
 pip3 install levenshtein
 
+# install seqkit
+conda install bioconda::seqkit
+
 # Install DnoisE
 conda install -c adriantich dnoise
 
