@@ -22,6 +22,25 @@ Now, within the newly created and activated metabarcode_data_analysis_env, the i
 - vsearch
 
 
+Taxonomic classification (with Kraken2) was performed within a dedicated conda environment, created as follows:
+```
+conda create -n kraken2_env -c conda-forge -c bioconda -c defaults --strict-channel-priority kraken2
+```
+To extract the desired taxa KrakenTools was used, which can be downloaded on github (https://github.com/jenniferlu717/KrakenTools.git)
+
+
+
+The binary file for the usearch preprocessing toolkit, as well as the denoising tool UNOISE3 is not included here due to licensing restrictions.
+
+Please download it from the usearch webpage.
+
+
+
+
+
+
+
+
 
 
 
