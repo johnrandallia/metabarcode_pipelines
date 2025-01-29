@@ -17,9 +17,9 @@ Now, within the newly created and activated metabarcode_data_analysis_env, the i
 - fastx_trimmer
 - fastq-pair
 - trimmomatic
-- Samtools pairtosam 
+- samtools pairtosam 
 - vsearch
-
+- seqkit
 
 Taxonomic classification (with Kraken2) was performed within a dedicated conda environment, created as follows:
 ```
