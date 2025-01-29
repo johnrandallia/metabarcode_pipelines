@@ -11,10 +11,15 @@ conda install -c bioconda vsearch
 conda install -c conda-forge pigz
 conda install biopython
 
+# install cutadapt
 sudo apt install cutadapt
 pip3 install levenshtein
 
-conda install -c bioconda bfc
+# Install DnoisE
 conda install -c adriantich dnoise
 
+# Install R
 conda install -c conda-forge r-base=4.0.0
+
+# R packages to execute DADA2
+Rscript -e "install.packages(c('dada2','dplyr','stringr','seqinr'), repos = 'https://cloud.r-project.org')"
