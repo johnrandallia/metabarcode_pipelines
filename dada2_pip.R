@@ -1,7 +1,5 @@
 # Script to run DADA2
 # based on the DADA2 tutorial (https://benjjneb.github.io/dada2/tutorial.html)
-# M. Eisele, C. Andujar, B. Emerson
-# July 2024
 
 #packageVersion("dada2")
 #library(reticulate)
