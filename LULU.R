@@ -1,6 +1,4 @@
 # LULU script
-# M. Eisele, C. Andujar, B. Emerson
-# July 2024
 
 #uses LULU to clean OTU tables 
 library(dplyr)
