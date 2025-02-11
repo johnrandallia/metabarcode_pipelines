@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/924031302.svg)](https://doi.org/10.5281/zenodo.14762522)
+
 # metabarcode_pipelines
 This repository contains scripts for multiple (pre)processing approaches of metabarcoding datasets. 
 A series of denoising tools are employed, each evaluated across ten stringency levels.
