@@ -1,8 +1,6 @@
 #! /bin/bash
 
 # script to run LULU
-# M. Eisele, C. Andujar, B. Emerson
-# July 2024
 
 # Load conda environment
 source /opt/miniconda3/etc/profile.d/conda.sh
